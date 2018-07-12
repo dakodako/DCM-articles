@@ -62,3 +62,9 @@ Calculate the periodogram for each segment?
 
 ## Negative variational free energy
 
+# Dynamic effective connectivity in resting state fMRI
+
+## Hidden Markov Model 
+
+using Hidden Markov Model to model the hidden neural states, where each state corresponds to a particular point in the parameter space of effective connectivity. This effective connectivity then generates complex cross spectral data features of the observed timeseries. 
+
