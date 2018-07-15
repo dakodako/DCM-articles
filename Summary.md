@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # A DCM for resting state fMRI
 This note will try to understand DCM using the code 
 ```matlab
